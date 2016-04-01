@@ -13,7 +13,7 @@
         <version>1.3.3.RELEASE</version>
     </parent>
 
-
+    <!-- This start the dependency section -->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
